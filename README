@@ -1,0 +1,8 @@
+Some plugins for the caja file manager.
+
+- `copyfilename.py`  – adds an content menu to copy the full path of a selected file
+- `symlink.py` – Provides several improvements to work with symbolic links
+	- Adds an option to display the real filepath of a file
+	- Adds an option to open a new caja window at the target directory
+	- Adds an statusbar indicating when the current directory is (inside of) a symlink.
+- `hashsum-property-page.py` – Show different hashsums on a file property page
